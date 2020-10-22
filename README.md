@@ -9,19 +9,26 @@ I am a Backend Developer, passionate of Java and other JVM languages, as well as
 
 #### Top Technologies
 
-<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 
-<img align="left" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 
-<img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
-<img align="left" src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/>
 
-<img align="left" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img align="left" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql"/>
 
-<img align="left" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/-Cassandra-lightblue?style=for-the-badge"/>
+
+<img align="left" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img align="left" src="https://img.shields.io/badge/git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img align="left" src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=jetbrains"/>
+
 
 </br>
 
