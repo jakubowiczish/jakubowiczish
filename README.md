@@ -2,8 +2,6 @@
 
 I am a Backend Developer, passionate of Java and other JVM languages, as well as modern frameworks built around these languages.
 
-Here are some ideas to get you started:
-
 - ♨️ Currently working as a Backend Developer, using mostly Java and Spring
 - ⚛️ Currently trying to learn some frontend technologies such as React & React Native
 - 🤝 Looking to collaborate on Backend and Fullstack positions
