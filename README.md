@@ -29,7 +29,7 @@ I am a Backend Developer, passionate of Java and other JVM languages, as well as
 
 <img align="left" src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=jetbrains"/>
 
-
+</br>
 </br>
 
 #### Resume & Contact
