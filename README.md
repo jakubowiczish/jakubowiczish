@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
-<img align="left" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
 <img align="left" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
+</br>
 
 #### Resume & Contact
 - :paperclip: [My Resume / CV](https://github.com/jakubowiczish/cv/blob/master/jakub_plotnikowski_resume.pdf)
