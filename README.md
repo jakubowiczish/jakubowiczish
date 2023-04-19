@@ -33,14 +33,9 @@ I am a Backend Developer, passionate of Java and other JVM languages, as well as
 </br>
 
 #### Resume & Contact
-- :paperclip: [My Resume / CV](https://github.com/jakubowiczish/cv/blob/master/jakub_plotnikowski_resume.pdf)
+- :paperclip: [My Resume / CV](https://github.com/jakubowiczish/cv/blob/master/Resume.pdf)
 - :email: plotnikowskijakub@gmail.com
 - :link: https://www.linkedin.com/in/jakub-plotnikowski/
-
-
-#### Github Stats
-
-![jakubowiczish's github stats](https://github-readme-stats.vercel.app/api?username=jakubowiczish&show_icons=true&theme=radical&count_private=true)
 
 <!--
 **jakubowiczish/jakubowiczish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
